@@ -1,0 +1,11 @@
+*.o
+
+cpp_yolov3_tiny/cnn_converter_config/cpp_yolov3_tiny
+cpp_yolov3_tiny/cpp_yolov3_tiny
+cpp_yolov3_tiny/output
+!cpp_yolov3_tiny/output/.gitkeep
+
+outputs_yolo/*
+!outputs_yolo/.gitkeep
+
+__pycache__
